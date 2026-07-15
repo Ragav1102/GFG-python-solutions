@@ -1,0 +1,5 @@
+class Solution:
+    def findAnswer(self, d, n): 
+       res=(d-n)%7
+       return res
+       
