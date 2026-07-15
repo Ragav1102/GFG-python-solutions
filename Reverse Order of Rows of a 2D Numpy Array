@@ -1,0 +1,4 @@
+class Solution:
+    def reverseRows(self, arr):
+      return arr[::-1]
+        
